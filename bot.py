@@ -6,7 +6,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 from telegram import Update
 
 TELEGRAM_TOKEN = "8344596547:AAH25iHNTnMZSrPi1BJF3auG6r5b-fbq5jE"
-ADMIN_ID = 1600
+ADMIN_ID = 7794362248
 BOT_OWNER = "@DEVILVIPDDOSX"
 APPROVED_USERS_FILE = "approved_users.json"
 
